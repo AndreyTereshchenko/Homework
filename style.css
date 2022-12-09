@@ -1,0 +1,12 @@
+.body{
+    background: linear-gradient(to top, #fefcea, #f1da36);
+}
+html, body{
+    height: 100%;
+    margin: 0;  
+    background: linear-gradient(to top, #fefcea, #f1da36);
+    display: flex;  
+    justify-content: center;
+    align-items: center;
+   font-size: 10vh;
+}
